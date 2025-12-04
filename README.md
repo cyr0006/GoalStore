@@ -1,0 +1,2 @@
+# GoalStore
+Storage for goals
