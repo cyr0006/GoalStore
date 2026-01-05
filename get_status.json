@@ -21,7 +21,11 @@
     "2025-12-29": "complete",
     "2025-12-30": "complete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "complete",
+    "2026-01-04": "complete",
+    "2026-01-05": "complete"
   },
   "quarkybaryon": {
     "2025-12-11": "complete",
@@ -45,7 +49,11 @@
     "2025-12-29": "complete",
     "2025-12-30": "complete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "complete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "complete",
+    "2026-01-04": "complete",
+    "2026-01-05": "complete"
   },
   "arjunj": {
     "2025-12-11": "incomplete",
@@ -69,7 +77,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "zenith0002": {
     "2025-12-11": "complete",
@@ -93,7 +105,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "complete",
     "2025-12-31": "complete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "complete",
+    "2026-01-03": "complete",
+    "2026-01-04": "complete",
+    "2026-01-05": ""
   },
   "gxoff": {
     "2025-12-11": "incmplete",
@@ -117,7 +133,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "inconspicuous_divinity": {
     "2025-12-11": "incomplete",
@@ -141,7 +161,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "lelouch888": {
     "2025-12-11": "complete",
@@ -165,7 +189,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "nnunes05": {
     "2025-12-11": "complete",
@@ -189,7 +217,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "ruthenium3335": {
     "2025-12-11": "incomplete",
@@ -213,7 +245,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "nfaelis": {
     "2025-12-11": "complete",
@@ -236,8 +272,12 @@
     "2025-12-28": "complete",
     "2025-12-29": "complete",
     "2025-12-30": "complete",
-    "2025-12-31": "incomplete",
-    "2026-01-01": "complete"
+    "2025-12-31": "complete",
+    "2026-01-01": "complete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "complete",
+    "2026-01-04": "complete",
+    "2026-01-05": "complete"
   },
   "mirkwoodranger_": {
     "2025-12-11": "complete",
@@ -261,7 +301,11 @@
     "2025-12-29": "complete",
     "2025-12-30": "complete",
     "2025-12-31": "complete",
-    "2026-01-01": ""
+    "2026-01-01": "complete",
+    "2026-01-02": "complete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "complete",
+    "2026-01-05": ""
   },
   "_not_alex_": {
     "2025-12-11": "incomplete",
@@ -285,7 +329,11 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   },
   "sparesandwich": {
     "2025-12-11": "incomplete",
@@ -309,6 +357,10 @@
     "2025-12-29": "incomplete",
     "2025-12-30": "incomplete",
     "2025-12-31": "incomplete",
-    "2026-01-01": ""
+    "2026-01-01": "incomplete",
+    "2026-01-02": "incomplete",
+    "2026-01-03": "incomplete",
+    "2026-01-04": "incomplete",
+    "2026-01-05": "incomplete"
   }
 }
