@@ -96,7 +96,9 @@
     "2026-03-14": "complete",
     "2026-03-15": "complete",
     "2026-03-16": "complete",
-    "2026-03-17": ""
+    "2026-03-17": "complete",
+    "2026-03-18": "complete",
+    "2026-03-19": ""
   },
   "quarkybaryon": {
     "2025-12-11": "complete",
@@ -195,7 +197,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "complete",
     "2026-03-16": "incomplete",
-    "2026-03-17": ""  
+    "2026-03-17": "complete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "arjunj": {
     "2025-12-11": "incomplete",
@@ -266,8 +270,8 @@
     "2026-02-14": "incomplete",
     "2026-02-15": "incomplete",
     "2026-02-16": "incomplete",
-    "2026-02-17": "",
-    "2026-02-18": "",
+    "2026-02-17": "incomplete",
+    "2026-02-18": "incomplete",
     "2026-02-19": "incomplete",
     "2026-02-20": "incomplete",
     "2026-02-21": "incomplete",
@@ -294,7 +298,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": "incomplete"
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "zenith0002": {
     "2025-12-11": "complete",
@@ -393,7 +399,9 @@
     "2026-03-14": "complete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": "incomplete"
+    "2026-03-17": "incomplete",
+    "2026-03-18": "complete",
+    "2026-03-19": "" 
   },
   "gxoff": {
     "2025-12-11": "incmplete",
@@ -492,7 +500,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": ""
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "inconspicuous_divinity": {
     "2025-12-11": "incomplete",
@@ -591,7 +601,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": ""
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "lelouch888": {
     "2025-12-11": "complete",
@@ -690,7 +702,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": ""
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "nnunes05": {
     "2025-12-11": "complete",
@@ -788,8 +802,10 @@
     "2026-03-13": "incomplete",
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
-    "2026-03-16": "incomplete"
-    "2026-03-17": "",
+    "2026-03-16": "incomplete",
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "ruthenium3335": {
     "2025-12-11": "incomplete",
@@ -888,7 +904,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": ""
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "mirkwoodranger_": {
     "2025-12-11": "complete",
@@ -987,7 +1005,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "complete",
-    "2026-03-17": ""
+    "2026-03-17": "incomplete",
+    "2026-03-18": "complete",
+    "2026-03-19": "" 
   },
   "_not_alex_": {
     "2025-12-11": "incomplete",
@@ -1086,7 +1106,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": "incomplete"
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "sparesandwich": {
     "2025-12-11": "incomplete",
@@ -1185,7 +1207,9 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "incomplete",
     "2026-03-16": "incomplete",
-    "2026-03-17": ""
+    "2026-03-17": "incomplete",
+    "2026-03-18": "incomplete",
+    "2026-03-19": "" 
   },
   "noah_f5339": {
     "2025-12-11": "complete",
@@ -1284,6 +1308,8 @@
     "2026-03-14": "incomplete",
     "2026-03-15": "complete",
     "2026-03-16": "complete",
-    "2026-03-17": ""
+    "2026-03-17": "complete",
+    "2026-03-18": "complete",
+    "2026-03-19": "complete" 
   }
 }
